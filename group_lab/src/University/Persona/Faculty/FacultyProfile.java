@@ -6,7 +6,7 @@
 package University.Persona.Faculty;
 
 import University.Persona.Faculty.FacultyAssignment;
-import University.CourseSchedule.CourseOffer;
+import university.CourseSchedule.CourseOffer;
 import java.util.ArrayList;
 
 /**

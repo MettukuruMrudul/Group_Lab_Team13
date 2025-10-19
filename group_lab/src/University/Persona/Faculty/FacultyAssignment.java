@@ -5,7 +5,7 @@
  */
 package University.Persona.Faculty;
 
-import University.CourseSchedule.CourseOffer;
+import university.CourseSchedule.CourseOffer;
 
 
 /**

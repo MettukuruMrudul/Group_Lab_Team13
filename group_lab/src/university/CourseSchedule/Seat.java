@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package info5100.university.example.CourseSchedule;
+package university.CourseSchedule;
 
 /**
  *
- * @author kal bugrara
+ * @author uday
  */
 public class Seat {
     

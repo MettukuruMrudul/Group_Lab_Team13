@@ -6,7 +6,7 @@
 package University.Persona.Faculty;
 
 import University.Persona.*;
-import University.Department.Department;
+import university.Department.Department;
 import java.util.ArrayList;
 
 /**
