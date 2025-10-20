@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author meghana
+ * @author uday
  */
 public class CourseLoad {
     

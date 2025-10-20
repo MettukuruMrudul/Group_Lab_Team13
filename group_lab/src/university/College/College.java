@@ -10,7 +10,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author meghana
+ * @author uday
  */
 public class College {
     ArrayList<Department> departments;
