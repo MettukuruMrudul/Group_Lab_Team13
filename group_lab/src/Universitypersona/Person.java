@@ -7,7 +7,7 @@ package Universitypersona;
 
 /**
  *
- * @author kal bugrara
+ * @author nihar
  */
 public class Person {
     

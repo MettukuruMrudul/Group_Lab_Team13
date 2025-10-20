@@ -11,7 +11,7 @@ import university.CourseSchedule.CourseOffer;
 
 /**
  *
- * @author kal bugrara
+ * @author nihar
  */
 public class Employment {
     ArrayList<CourseOffer> relevantcourseoffers;
