@@ -10,7 +10,7 @@ import university.CourseSchedule.CourseOffer;
 
 /**
  *
- * @author kal bugrara
+ * @author nihar
  */
 public class FacultyAssignment {
     double tracerating;

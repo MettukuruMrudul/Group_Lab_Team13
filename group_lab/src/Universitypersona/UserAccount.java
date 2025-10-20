@@ -14,7 +14,7 @@ import University.workareas.Workarea;
 
 /**
  *
- * @author kal bugrara
+ * @author nihar
  */
 public class UserAccount {
     Person person;

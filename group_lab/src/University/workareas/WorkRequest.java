@@ -11,7 +11,7 @@ import Universitypersona.Person;
 
 /**
  *
- * @author kal bugrara
+ * @author nihar
  */
 public class WorkRequest {
     String task;
