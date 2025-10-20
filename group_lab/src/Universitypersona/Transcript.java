@@ -5,9 +5,8 @@
  */
 package Universitypersona;
 
-import Universitypersona.StudentProfile;
-import info5100.university.example.CourseSchedule.CourseLoad;
-import info5100.university.example.CourseSchedule.SeatAssignment;
+import university.CourseSchedule.CourseLoad;
+import university.CourseSchedule.SeatAssignment;
 import java.util.ArrayList;
 import java.util.HashMap;
 

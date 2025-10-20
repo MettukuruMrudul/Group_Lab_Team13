@@ -10,8 +10,7 @@ package Universitypersona;
  * @author kal bugrara
  */
 
-import Universitypersona.Person;
-import info5100.university.example.workareas.Workarea;
+import University.workareas.Workarea;
 
 /**
  *
