@@ -7,7 +7,7 @@ package university.Campus;
 
 /**
  *
- * @author kal bugrara
+ * @author meghana
  */
 public class Sprinkler {
 

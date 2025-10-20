@@ -7,7 +7,7 @@ package university.CourseSchedule;
 
 /**
  *
- * @author uday
+ * @author meghana
  */
 public class Seat {
     

@@ -9,7 +9,7 @@ package University.workareas;
 
 /**
  *
- * @author kal bugrara
+ * @author meghana
  */
 public class WorkRequest {
     String task;

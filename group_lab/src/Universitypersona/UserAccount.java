@@ -7,7 +7,7 @@ package Universitypersona;
 
 /**
  *
- * @author kal bugrara
+ * @author meghana
  */
 
 import Universitypersona.Person;
@@ -15,7 +15,7 @@ import info5100.university.example.workareas.Workarea;
 
 /**
  *
- * @author kal bugrara
+ * @author meghana
  */
 public class UserAccount {
     Person person;

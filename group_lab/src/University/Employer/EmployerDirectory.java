@@ -13,7 +13,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author kal bugrara
+ * @author meghana
  */
 public class EmployerDirectory {
 

@@ -13,7 +13,7 @@ import java.util.HashMap;
 
 /**
  *
- * @author kal bugrara
+ * @author meghana
  */
 public class Transcript {
 
