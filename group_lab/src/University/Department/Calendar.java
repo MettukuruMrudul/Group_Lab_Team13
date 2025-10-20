@@ -10,7 +10,7 @@ import java.util.HashMap;
 import university.CourseSchedule.CourseSchedule;
 /**
  *
- * @author kal bugrara
+ * @author meghana
  */
 public class Calendar {
     
