@@ -5,16 +5,17 @@
  */
 package university;
 
-import university.CourseCatalog.Course;
-import university.CourseCatalog.CourseCatalog;
+import University.Department.Department;
+import Universitypersona.Person;
+import Universitypersona.PersonDirectory;
+import Universitypersona.StudentDirectory;
+import Universitypersona.StudentProfile;
 import university.CourseSchedule.CourseLoad;
 import university.CourseSchedule.CourseOffer;
 import university.CourseSchedule.CourseSchedule;
-import university.Department.Department;
-import university.Persona.Person;
-import university.Persona.PersonDirectory;
-import university.Persona.StudentDirectory;
-import university.Persona.StudentProfile;
+import university.Coursecatalog.Course;
+import university.Coursecatalog.CourseCatalog;
+
 
 /**
  *

@@ -6,12 +6,13 @@
 package University.Persona.Faculty;
 
 import University.Persona.Faculty.FacultyAssignment;
+import Universitypersona.Person;
 import university.CourseSchedule.CourseOffer;
 import java.util.ArrayList;
 
 /**
  *
- * @author kal bugrara
+ * @author nihar
  */
 public class FacultyProfile {
 

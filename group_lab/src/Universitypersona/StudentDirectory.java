@@ -5,14 +5,16 @@
  */
 package Universitypersona;
 
-import Universitypersona.Person;
 import University.Department.Department;
-import info5100.university.example.Persona.StudentProfile;
 import java.util.ArrayList;
 
 /**
  *
+<<<<<<< HEAD
  * @author meghana
+=======
+ * @author nihar
+>>>>>>> e58cf2050f9344500ceb23c4bcb8a8a6b31041e4
  */
 public class StudentDirectory {
 

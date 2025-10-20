@@ -5,13 +5,17 @@
  */
 package University.Persona.EmploymentHistory;
 
-import University.CourseSchedule.CourseOffer;
 import University.Employer.EmployerProfile;
 import java.util.ArrayList;
+import university.CourseSchedule.CourseOffer;
 
 /**
  *
+<<<<<<< HEAD
  * @author meghana
+=======
+ * @author nihar
+>>>>>>> e58cf2050f9344500ceb23c4bcb8a8a6b31041e4
  */
 public class Employment {
     ArrayList<CourseOffer> relevantcourseoffers;
