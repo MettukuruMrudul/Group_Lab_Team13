@@ -5,8 +5,9 @@
  */
 package University.Persona.Faculty;
 
-import University.Persona.*;
 import University.Department.Department;
+import Universitypersona.Person;
+import Universitypersona.UserAccount;
 import java.util.ArrayList;
 
 /**

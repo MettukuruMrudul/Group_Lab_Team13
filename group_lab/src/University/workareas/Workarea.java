@@ -5,7 +5,7 @@
  */
 package University.workareas;
 
-import University.Persona.Person;
+import Universitypersona.Person;
 import java.util.ArrayList;
 
 /**
