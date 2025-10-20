@@ -7,11 +7,7 @@ package Universitypersona;
 
 /**
  *
-<<<<<<< HEAD
  * @author meghana
-=======
- * @author nihar
->>>>>>> e58cf2050f9344500ceb23c4bcb8a8a6b31041e4
  */
 public class StudentAccount {
     
