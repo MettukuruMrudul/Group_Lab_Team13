@@ -14,7 +14,7 @@ public class Course {
     String number;
     String name;
     int credits;
-    int price = 1500; 
+    int price = 1500;
 
     public Course(String n, String numb, int ch) {
         name = n;
