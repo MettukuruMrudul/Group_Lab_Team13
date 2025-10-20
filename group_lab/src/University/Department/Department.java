@@ -5,18 +5,19 @@
  */
 package University.Department;
 
-import info5100.university.example.CourseCatalog.Course;
-import info5100.university.example.CourseCatalog.CourseCatalog;
-import info5100.university.example.CourseSchedule.CourseLoad;
-import info5100.university.example.CourseSchedule.CourseOffer;
-import info5100.university.example.CourseSchedule.CourseSchedule;
-import info5100.university.example.Degree.Degree;
-import info5100.university.example.Employer.EmployerDirectory;
-import info5100.university.example.Persona.Faculty.FacultyDirectory;
-import info5100.university.example.Persona.PersonDirectory;
-import info5100.university.example.Persona.StudentDirectory;
-import info5100.university.example.Persona.StudentProfile;
+
+import University.Employer.EmployerDirectory;
+import University.Persona.Faculty.FacultyDirectory;
+import Universitypersona.PersonDirectory;
+import Universitypersona.StudentDirectory;
+import Universitypersona.StudentProfile;
 import java.util.HashMap;
+import university.CourseSchedule.CourseLoad;
+import university.CourseSchedule.CourseOffer;
+import university.CourseSchedule.CourseSchedule;
+import university.Coursecatalog.Course;
+import university.Coursecatalog.CourseCatalog;
+import university.Degree.Degree;
 
 /**
  *

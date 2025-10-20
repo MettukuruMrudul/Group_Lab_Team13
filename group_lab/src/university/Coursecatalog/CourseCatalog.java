@@ -5,8 +5,8 @@
  */
 package university.Coursecatalog;
 
-import university.Coursecatalog.Course;
-import university.Department.Department;
+
+import University.Department.Department;
 import java.util.ArrayList;
 
 /**

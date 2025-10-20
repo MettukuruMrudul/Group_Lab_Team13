@@ -5,9 +5,7 @@
  */
 package university.Campus;
 
-import info5100.university.example.Campus.Floor;
-import info5100.university.example.Campus.Seat;
-import info5100.university.example.Campus.Sprinkler;
+
 import java.util.ArrayList;
 
 /**

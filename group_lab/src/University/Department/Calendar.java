@@ -5,9 +5,9 @@
  */
 package University.Department;
 
-import info5100.university.example.CourseSchedule.CourseSchedule;
 import java.lang.*;
 import java.util.HashMap;
+import university.CourseSchedule.CourseSchedule;
 /**
  *
  * @author kal bugrara

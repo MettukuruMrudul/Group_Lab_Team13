@@ -5,10 +5,11 @@
  */
 package university.Degree;
 
+import Universitypersona.StudentProfile;
 import university.Coursecatalog.Course;
-import info5100.university.example.CourseSchedule.SeatAssignment;
-import info5100.university.example.Persona.StudentProfile;
+
 import java.util.ArrayList;
+import university.CourseSchedule.SeatAssignment;
 
 /**
  *
